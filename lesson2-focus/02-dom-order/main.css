@@ -173,5 +173,5 @@ article p {
 
 /* Helpers */
 .pull-right {
-  float: right;
+ /* float: right; */
 }
